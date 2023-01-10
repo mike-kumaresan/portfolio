@@ -1,0 +1,317 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass amsart
+\use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+customHeadersFooters
+shapepar
+tcolorbox
+graphicboxes
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Why I Teach...(Part II)
+\end_layout
+
+\begin_layout Author
+Michael Kumaresan
+\end_layout
+
+\begin_layout Quotation
+\align block
+
+\family sans
+\begin_inset Quotes eld
+\end_inset
+
+The job of an educator is to teach students to see vitality in themselves.'
+\begin_inset Quotes erd
+\end_inset
+
+ -Joseph Campbell
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align block
+
+\family sans
+\begin_inset Quotes eld
+\end_inset
+
+I never teach my pupils; I only attempt to provide the conditions in which
+ they can learn.'
+\begin_inset Quotes erd
+\end_inset
+
+ -Albert Einstein
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In my reflections three years ago, I answered the question of why I teach
+ with the words: 
+\begin_inset Quotes eld
+\end_inset
+
+I teach out of duty and delight - because I ought to, but also because I
+ want to.
+\begin_inset Quotes erd
+\end_inset
+
+ The first phrase made reference to the debt that I owed the teachers who
+ taught me when I was a young man.
+ The second phrase spoke to my own love for my subject and my desire to
+ pass on the knowledge that was imparted to me to the young men and women
+ who pass through my classroom.
+ After reading through my reflections over the last few years and thinking
+ about the changes that I have implemented in my philosophy and practice,
+ I am still fully in agreement with what I wrote three years ago.
+ I still believe strongly in the duty I have to teach; in the responsibility
+ I have to pass on the mantle that was given to me as a student.
+ I am also still as passionate as I have ever been about mathematics and
+ I still find plenty of joy in sharing my delight of the subject with others.
+ What I have noticed, however, about my statement from three years ago,
+ is how my response to the question basically centers around me - the teacher.
+ Now, there is nothing intrinsically wrong with this.
+ The teacher must play an important role in the learning environment, and
+ the classroom cannot function without a competent person managing it.
+ However, where my perspective has changed and grown drastically over the
+ last three years, has been in understanding more clearly the role that
+ the student can play in the classroom.
+ That is, I have come to appreciate much more what the classroom can look
+ like when the student - and not necessarily the teacher - takes the central
+ role in the learning.
+ So, to my two words from three years ago - 
+\begin_inset Quotes eld
+\end_inset
+
+duty
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+delight,
+\begin_inset Quotes erd
+\end_inset
+
+ I would like to add a third - 
+\begin_inset Quotes eld
+\end_inset
+
+difference.
+\begin_inset Quotes erd
+\end_inset
+
+ I teach because of the difference and impact that good and appropriate
+ student-centered teaching can have on a student when he or she is at the
+ center of the learning.
+ But I also teach because of the difference that this approach has on me
+ as the teacher.
+ Let me briefly consider each of these two thoughts in turn.
+\end_layout
+
+\begin_layout Standard
+First, one aspect of my teaching philosophy which has become more clear
+ over the last few years is the idea that it is what the learners 
+\series bold
+\shape italic
+do
+\series default
+\shape default
+ that matters.
+ So often learners become passive recipients of lessons.
+ But what I strive for instead in my classroom is to make students directly
+ active in the learning process with the goal of having them reach the stage
+ where they become their own teachers; where they can seek out optimal ways
+ to learn new material and ideas; where they can seek resources to help
+ them in learning; and where they can set appropriate and high-level goals
+ for themselves.
+ Over the last few years, I have seen how students need to be involved in
+ determining success criteria; in setting higher expectations for the classroom;
+ and in being open to experiences related to new ways of knowing and problem-sol
+ving.
+ This leads to their development as learners and in their ability to self-assess
+, self-evaluate, self-monitor and self-learn.
+ And a large part of them having this experience in the classroom relies
+ on my own ability to remove myself from their way and create the right
+ environment for them to become active learners.
+ Among the strategies I have employed over the last few years with respect
+ to this are promoting strong interactions in class, using a variety of
+ tools and approaches, and displaying high levels of enthusiasm when teaching
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Though my remarks here are brief, please see my essays from last year and
+ the year before for more details on pedagogical techniques I have used
+ in the classroom.
+\end_layout
+
+\end_inset
+
+.
+ Placing students at the center of the learning requires me as the teacher
+ to see learning through the eyes of my students and then using that knowledge
+ to engage them in learning that leads them to be successful and active
+ learners.
+ Over the last few years, I have grown in my appreciation for the need for
+ this kind of teaching, and in some instances where I have managed to do
+ this successfully, I have seen wonderful results in my students.
+\end_layout
+
+\begin_layout Standard
+But second, and perhaps more importantly, having the student at the center
+ of learning is not just beneficial for the student, but is also beneficial
+ for me as the teacher.
+ Over the last few years, I have seen how taking this approach has helped
+ me to grow both professionally (in my knowledge and appreciation of the
+ subject matter) and also as a person.
+ Putting students at the forefront of the classroom has allowed them to
+ showcase their many talents and abilities, and this in turn has given me
+ new insights on the content that I am teaching and has made me an active
+ learner in the classroom alongside my students.
+ I have found that by developing the skill of 
+\begin_inset Quotes eld
+\end_inset
+
+getting myself out of the way
+\begin_inset Quotes erd
+\end_inset
+
+ when learning is progressing towards the success criteria, I am not only
+ helping the students grow in their confidence and abilities, but I (as
+ the teacher) begin to see things from a new and fresh perspective.
+ There is no better way for students to be inspired and motivated in the
+ classroom than to see the ways in which they are helping to make their
+ teacher a better learner.
+\end_layout
+
+\begin_layout Standard
+Thus, one of my main goals for my own professional growth in the future
+ is to continue to develop the skill of being a strong student-centered
+ teacher.
+ One of the phrases that I have embraced from the Skillful Teacher course
+ I attended a few years ago is the idea of the teacher being a 
+\begin_inset Quotes eld
+\end_inset
+
+warm demander.
+\begin_inset Quotes erd
+\end_inset
+
+ This requires something of the teacher (creating the right environment)
+ and the student (doing what it takes to be successful).
+ One of my life-long goals is to learn to find the right balance and symbiosis
+ between these two aspects of teaching.
+ I see no better way for me to develop this skill than to continue to work
+ for many years in the environment in which I have been working over the
+ last few years.
+ My time at Scarsdale has been very formative and I can see in such a short
+ period of time what an impact a strong community of colleagues and students
+ can have on my own development as a teacher and person.
+ I hope to continue to see more growth in my skills as a teacher by spending
+ many more years in such an environment.
+\end_layout
+
+\begin_layout Standard
+So why do I teach? Out of duty to those that came before me; out of delight
+ for the subject matter; but also because of the difference good teaching
+ makes in the lives of both my students and myself.
+\end_layout
+
+\end_body
+\end_document

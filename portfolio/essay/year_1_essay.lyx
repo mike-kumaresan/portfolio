@@ -1,0 +1,341 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass amsart
+\use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+customHeadersFooters
+shapepar
+tcolorbox
+graphicboxes
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Why I Teach...
+\end_layout
+
+\begin_layout Author
+Michael Kumaresan
+\end_layout
+
+\begin_layout Quotation
+\align block
+
+\family sans
+\begin_inset Quotes eld
+\end_inset
+
+Do not answer a fool according to his folly or you will be like him yourself.
+ Answer a fool according to his folly, or he will be wise in his own eyes.'
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Taken at face value, the ancient Hebrew proverbs above appear to be a classic
+ example of a silly contradiction; however, this could not be further from
+ the truth.
+ The sages who wrote the ancient Hebrew proverbs were not stupid men.
+ The reason they put these proverbs together is because they wanted them
+ read together.
+ Together, the proverbs give a true picture of reality on how to discern
+ a situation and to know when to correct a fool.
+ In writing proverbs such as these, the ancient sages were grappling with
+ the immense complexity of the world and urging their readers to engage
+ in the same exercise of thinking deeply about the world and living well
+ therein.
+ 
+\end_layout
+
+\begin_layout Standard
+The perspective of the ancients often goes unappreciated by our modern sensibili
+ties.
+ We tend to believe in a random universe governed by random forces that
+ can be perfectly explained by the laws of science.
+ There is an unfortunate kind of utilitarianism to the way we live.
+ The ancients, on the other hand, had a beautifully nuanced view of the
+ world.
+ They believed that the world had an underlying structure, and yet was mysteriou
+s in many ways.
+ To them there was a deeper meaning, beauty and truth to the universe, along
+ with a complexity and mystery that sometimes cannot be explained.
+ They placed immense value on the idea of wisdom and urged each other to
+ engage in the task of pursuing wisdom.
+ That is, a wise person was on a quest to discover the underlying structure
+ in the world, and to learn how to navigate through the complexity and mystery
+ that he would encounter in life.
+ Though much can be said about how to gain wisdom, one key way to become
+ a wise person is to be in a community of learners, with older, wiser mentors.
+\end_layout
+
+\begin_layout Standard
+As I reflect on my own (short) journey through life, I have found a lot
+ of truth in the perspective of the sages of old.
+ To be successful in the world one has to be able to live 
+\begin_inset Quotes eld
+\end_inset
+
+paradoxically.
+\begin_inset Quotes erd
+\end_inset
+
+ That is, there are times when one has to embrace structure; and there are
+ times when one has to embrace mystery.
+ There are times when one has to be just; and there are times when one has
+ to be compassionate.
+ There are times when one has to speak; and there are times when one has
+ to listen.
+ There are times for undistracted work; and there are times for unhindered
+ rest.
+ There are times to be idealistic; and there are times to be pragmatic.
+ To navigate the world well, one has to learn to live in the tension of
+ what at first appear to be competing values, but in the end, complement
+ and balance each other in lovely ways.
+ Though there are many sources that have taught me these values and have
+ influenced my growth in these areas, among the most important has been
+ the education I received in my mid-teenage years.
+ In particular, there were four teachers of mine (two mathematics teachers
+ and two english teachers) whose lives, teaching and mentorship transformed
+ me profoundly and made me a wiser and more balanced person.
+ I am deeply grateful to Bob Arrigo, who showed me the beauty of deep thinking;
+ to Monica Palekar, who instilled in me the discipline of work; to Natalie
+ Farina, who taught me how to listen carefully; and to Sue Silver, who showed
+ me how to speak and communicate clearly.
+ I owe each of them a debt that cannot be repaid.
+\end_layout
+
+\begin_layout Standard
+Of the many inspiring moments in Bob Arrigo's class, there is one that stands
+ out in particular.
+ Bob's most well-known lesson of the year was his presentation of the proof
+ of Euler's formula:
+\begin_inset Formula 
+\[
+e^{i\pi}+1=0
+\]
+
+\end_inset
+
+This formula is considered by many mathematicians to be the most beautiful
+ formula in mathematics, combining the five most famous numbers in all of
+ mathematics in one succint statement.
+ Moreover, Euler's formula has deep connections to many branches of pure
+ and applied mathematics and its implications are far-reaching.
+ Bob's engaging presentation of the technical details of the proof was masterful
+; but what stays embedded in my mind was the moment when he had finished
+ the proof and put down the chalk.
+ At that moment there was a silence in the room.
+ And suddenly the room burst into applause.
+ But the applause wasn't for Bob - it was self-evident that he was the most
+ outstanding teacher we had ever had.
+ The applause was because we had seen something absolutely wondrous, delightful
+ and true.
+ Bob had managed to get himself out of the way and allowed us to see a beautiful
+ and deep reality in mathematics.
+ In that moment, he had shown us the reward for asking big questions.
+ He had opened all of our minds to something we never thought could exist.
+ For me personally, this was a life-changing moment.
+ It felt for those few minutes that everything was right in the world -
+ that there was a wonder, beauty, freedom, truth and elegance in mathematics
+ that was immensely satisfying and that I needed to explore more.
+ What I learned that day was the importance of being free to ask deep questions
+ that require deep thought, and the potential reward one can receive in
+ that pursuit.
+\end_layout
+
+\begin_layout Standard
+But having a sense of wonder and wanting to explore cannot be the sole way
+ to be successful in mathematics (or in life!).
+ This is where Monica Palekar's teaching affected me deeply.
+ It was in her class that I learned the importance of proof, rigor and organizat
+ion.
+ It was through her careful teaching that I learned about the laws of logic,
+ how to make a coherent argument and how to write a mathematical proof.
+ It was through her guidance that I learned to present my ideas in a meaningful
+ and logical way.
+ But the way in which Monica impacted me the most was not just through her
+ teaching but through her life and example.
+ What is so wonderful about Monica is that she lives in the same way that
+ she teaches - with integrity, generosity, commitment, patience and discipline.
+ She works hard and with excellence in all she does.
+ It was in her classroom and through our relationship that I learned the
+ importance of being diligent and disciplined in all my pursuits, and to
+ hold these qualities in tension with the wonder and freedom I had learned
+ from Bob.
+ 
+\end_layout
+
+\begin_layout Standard
+Though my natural academic inclinations were in mathematics and science,
+ it was two of my high school english teachers that had arguably the biggest
+ impact on my growth as a person.
+ In Natalie's Farina classroom, I found a place that completely transformed
+ the way that I looked at the world.
+ Any joy and delight I find in reading books today I owe to her teaching
+ because she helped me to look beyond words on a page to see profound ideas
+ about the world in those pages.
+ It was in her classroom that I learned the importance of hearing what an
+ author was communicating.
+ I learned to resist the temptation of superimposing my own thoughts or
+ interpretations on the text; but instead to listen well, to pause and reflect
+ on what I was hearing before doing anything else.
+ In Sue Silver's classroom, I found a teacher who gave me the confidence
+ to move past my introversion and insecurities and learn to communicate
+ in an effective way.
+ If Natalie showed me the importance of listening well, it was Sue who showed
+ me the importance of being able to speak well.
+ She had an uncanny ability to make me uncomfortable; but she always had
+ a way to push me and help me to move past the discomfort and really develop
+ myself in ways I had never explored before.
+ What I remember most fondly about being a student of theirs was the way
+ in which they made themselves available to me outside of the classroom.
+ I can recall many hours spent in their offices discussing literature, ideas
+ and the world.
+ In many ways, Natalie and Sue complemented each other perfectly.
+ For instance, from Natalie I learned the importance of being pragmatic
+ and realistic about life.
+ And from Sue, I learned the importance of holding to idealism and convictions
+ throughout life.
+ In both teachers, I found more than educators - they were conversation
+ partners, mentors and friends.
+\end_layout
+
+\begin_layout Standard
+The few words I have written above cannot do justice to the many ways in
+ which these individuals have impacted me.
+ It would be an understatement to say that they each changed the course
+ of my life in very profound ways.
+ I am immensely grateful for the skillsets that they gave me; in fact, these
+ have been tremendously useful to me in both my academic and working career
+ before I came into teaching.
+ However, I am even more grateful that they were the kind of eduators who
+ were not content with just passing on specific skills or knowledge.
+ They saw education as a means to develop the entire person - to make him
+ a wiser and well-balanced citizen of the world.
+ They each taught me to look at the deeper structures and beauties of the
+ world and gave me the values and skills I needed to navigate the complexity
+ of what I would face when I left school.
+ 
+\end_layout
+
+\begin_layout Standard
+It is only after years of teaching on my own that I have really been able
+ to see the profound difference Bob, Monica, Natalie and Sue have made in
+ my life.
+ Through feedback from students and conversations with colleagues, it is
+ clear to me that in many ways, Bob, Monica, Natalie and Sue are perpetually
+ with me in the classroom.
+ In my teaching career up to this point, I have striven to create the kind
+ of community and relationship with my students both inside and outside
+ the classroom that I enjoyed with my own teachers.
+ And just as my teachers helped me to develop into a wise person who is
+ ready to face the world, I have striven to do the same for my own students.
+ So why do I teach? Such is my respect and admiration for the teachers that
+ I had, that I can find no better way to honor them and carry on their legacy
+ than to attempt a feeble impression of them by following in their footsteps.
+ Bob, Monica, Natalie and Sue were so generous to me and served me so well
+ as teachers that I feel a sense of obligation to do the same for others.
+ It would be immensely selfish of me to not give back to others the kinds
+ of opportunities that I had as a student.
+ Teaching gives me the perfect way to assume that responsibility and carry
+ on the legacy and community of learning that my teachers passed on to me.
+ But more than out of obligation to my teachers, or out of service to my
+ students, I teach because in teaching I find a unique sense of joy.
+ When one truly enjoys something, it is not enough to hold on to it.
+ True delight in a subject compels one to tell others about it.
+ It is virtually impossible to find a person who loves a piece of music
+ or a movie or a piece of literature who then refuses but tell others about
+ it.
+ The delight in the subject is not just about understanding, but about sharing
+ that understanding with others.
+ And this is also why I teach - because Bob, Monica, Natalie and Sue gave
+ me a unique joy and love for mathematics, english and education.
+ Eduation is so compelling and delightful to me that I cannot but share
+ that with others.
+ And therefore, I teach out of duty and delight - because I ought to, but
+ also because I want to.
+ And therein lies another wonderful paradox worth thinking about.
+ 
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,73 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  overflow-y: hidden;
+  display: grid;
+}
+
+body {
+  font-family: Helvetica;
+  background-color: #a1a08c;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizelegibility;
+}
+
+div.container {
+  margin: auto;
+}
+
+h1 {
+  color: #297faa;
+  margin: 0;
+  font-variant: small-caps;
+  /*font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;*/
+  font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style",
+    Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+}
+
+h3 {
+  color: #297faa;
+  margin: 0;
+  font-variant: small-caps;
+  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+}
+
+h5 {
+  color: #297faa;
+  margin: 0;
+  /*font-variant: small-caps;*/
+  font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style",
+    Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+}
+
+h4 {
+  margin: 10px;
+}
+
+a:link {
+  color: #297faa;
+  font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style",
+    Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+  font-size: 15px;
+  font-variant: small-caps;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #297faa;
+  font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style",
+    Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+  font-size: 15px;
+  font-variant: small-caps;
+}
+
+a.hover {
+  color: #aa9c29;
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

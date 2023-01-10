@@ -1,0 +1,426 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass amsart
+\use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+customHeadersFooters
+shapepar
+tcolorbox
+graphicboxes
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Knowing What to Teach
+\end_layout
+
+\begin_layout Author
+Michael Kumaresan
+\end_layout
+
+\begin_layout Quotation
+\align block
+
+\family sans
+\begin_inset Quotes eld
+\end_inset
+
+It is clear that the chief end of mathematical study must be to make the
+ students think.'
+\begin_inset Quotes erd
+\end_inset
+
+ - JW Young
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Since the fall of 2012, I have had the opportunity to teach a variety of
+ courses ranging from Differential Equations to Mathematics for Elementary
+ School Teachers to a diverse group of students across multiple institutions
+ in the Greater New York area.
+ There are few experiences which have brought me more joy than the experience
+ of showing a student how mathematics is not merely the rote manipulation
+ of symbols, but a deep expression of the rigor, beauty and harmony found
+ in the world itself.
+ Over the years, my teaching style has evolved as I have gained more experience,
+ and I have been able to grow in my ability to communicate mathematics effective
+ly through the feedback and evaluations I have received from advisors and
+ colleagues.
+ But perhaps the greatest source of insight with regards to helping others
+ learn and understand mathematics has come from conversations with my students
+ (both past and present) on the nature of mathematics and its place in the
+ world.
+ My reflections on these conversations and subjects have led me to a basic
+ philosophical goal as a mathematics instructor - to effectively support
+ my students' engagement in deep mathematical ideas and to encourage peer-to-pee
+r collaboration among them so as to make them better and deeper thinkers.
+\end_layout
+
+\begin_layout Standard
+What then is my role as the instructor and what concrete steps do I take
+ to achieve this end? Inside the classroom, I focus on incorporating three
+ things into my teaching: 1.
+ Creating interaction which emphasizes student thinking; 2.
+ Teaching mathematics within a real-world context with a problem-centered
+ approach; and 3.
+ Teaching mathematics in historical context.
+ Let me consider each of these in turn.
+\end_layout
+
+\begin_layout Standard
+First, with regards to instructor-student interaction, I have seen a development
+ in my teaching over the years where I have moved away from the traditional
+ means of initiation and response between the instructor and the students
+ and toward an emphasis on the use and development of student thinking.
+ The former is often found in the traditional mathematics classroom: the
+ instructor attempts to garner participation with prompts such as, 
+\begin_inset Quotes eld
+\end_inset
+
+Does anyone have a question?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How can we simplify this?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What is the inverse of this matrix?
+\begin_inset Quotes erd
+\end_inset
+
+ These questions lead to an interaction between the instructor and the student
+ where the instructor initiates with the question, the student responds,
+ and then the instructor determines whether the response is correct or incorrect.
+ While this method can sometimes be useful, it fails to promote the deep
+ engagement with the subject matter and collaboration between students which
+ I believe makes mathematics education worthwhile.
+ I now attempt (wherever I can, and to the best of my ability) to form my
+ lecturing around helping students to share and deepen their thinking, as
+ well as engage with the thinking of those around them.
+ In teaching Introductory Linear Algebra, Differential Equations, and Calculus,
+ I have learned several steps which I try to implement to achieve this.
+ The first important step is to create a classroom environment in which
+ students feel comfortable in expressing their thinking.
+ This type of classroom atmosphere stems largely from expressing my own
+ enthusiasm and joy for the subject.
+ Showing enthusiasm and approachability goes a long way toward transforming
+ a student's experience from dry and difficult to engaging and thought-provoking.
+ However, I have found that this environment can also be created by prompting
+ students in the right way.
+ I have discovered that questions such as, 
+\begin_inset Quotes eld
+\end_inset
+
+Can you expand more on that idea?
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+I know you haven't finished the problem yet, but what was your initial thinking?
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+We should not shy away from making mistakes - can you talk us through an
+ initial approach you took that did not work?
+\begin_inset Quotes erd
+\end_inset
+
+ to be particularly helpful.
+ These types of prompts show the students that there is an expectation for
+ their ideas to be shared, even if they are incorrect.
+ Often times their thinking is fuzzy and lacks rigor; however, my goal in
+ engaging them in discussion is not to evaluate them immediately, but to
+ encourage them to make their contribution.
+ Following this, a second step is to help students engage with the ideas
+ and thinking of their peers.
+ I use questions such as 
+\begin_inset Quotes eld
+\end_inset
+
+Do we agree with his idea or thinking?
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Could someone re-express her argument in your own words?
+\begin_inset Quotes erd
+\end_inset
+
+, and 
+\begin_inset Quotes eld
+\end_inset
+
+Can you repeat that so the whole class can hear what you said?
+\begin_inset Quotes erd
+\end_inset
+
+ to move students in this direction.
+ I have seen the benefits of these kinds of interactions often in the classroom.
+ Sometimes, one student arrives at a different conclusion and this leads
+ to debate about who is correct and who can justify their thinking more
+ precisely.
+ Other times, a misunderstanding surfaces and a discussion ensues on how
+ to be more precise and careful in the way we are communicating.
+ All of these outcomes are productive in teaching students how to think
+ mathematically.
+ The third and final step to follow the previous two is to assist students
+ in deepening their thinking and to build on and extend their ideas more
+ formally.
+ This is where I see the role of the instructor as being key.
+ Once discussion has occurred, it becomes mathematically productive when
+ it is followed on by solid reasoning.
+ Therefore, I see my role as one in which I press students for reasoning
+ and justification for their ideas.
+ Questions such as 
+\begin_inset Quotes eld
+\end_inset
+
+How can we know that this is correct?
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Does this work all the time?
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+What is the connection to this other concept we were discussing?
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+Do we have to worry about this counterexample?
+\begin_inset Quotes erd
+\end_inset
+
+ have been helpful in getting students to really develop their ideas and
+ think through how to justify them.
+ This also allows me to introduce the importance of rigor and proof, and
+ show students that fundamentally, mathematics is more than just symbolic
+ computation and is about argumentation and deep thinking.
+ And it is here that formal and conventional definitions can be introduced
+ in such a way that the students are (in some sense) discovering them for
+ themselves and actually doing mathematics on their own.
+ I have found that creating classroom interactions with students on these
+ three levels has helped me tremendously to achieve the goal of engaging
+ my students with deep mathematical ideas in collaboration with each other.
+\end_layout
+
+\begin_layout Standard
+This leads me straight to my second point: in order to effectively create
+ interactions of the kind mentioned above, I try to build my lectures around
+ a particular problem or puzzle.
+ Rather than simply present a technique to students and reinforce it with
+ plenty of examples, I begin lectures (wherever possible) by presenting
+ them with a motivating problem - or series of problems - which we need
+ to solve together as a class.
+ This allows room for discussion and interaction over what the right approach
+ and technique could be to achieve that end.
+ The goal, then, of the lecture is to discover an appropriate technique
+ or Theorem for the particular problem and justify its use through proof.
+ In my experience, students find problems which come from a real-world context
+ to be particularly engaging, and I attempt to use examples from a wide
+ variety of fields including engineering, science, architecture, economics,
+ business and others.
+ A great benefit of using a problem-centered approach is that it often leads
+ to very interesting follow-up questions from students.
+ It is here that I can often point to other sub-disciplines of mathematics
+ or science to pique the interest of the more curious students.
+ Many have often followed up to learn more about this, and I have enjoyed
+ fruitful discussion on a wide variety of topics with them.
+\end_layout
+
+\begin_layout Standard
+Finally, in addition to teaching mathematics within a real-world context,
+ I also attempt to provide as much historical context to my students as
+ I can.
+ Connecting mathematical ideas to to their place in history is not simply
+ good pedagogy, but it also gives me (as the instructor) an opportunity
+ to discuss broader ideas and themes about the people who developed mathematics.
+ Many mathematicians were accomplished in other fields (philosophy, history,
+ art, etc), and I have found that students enjoy understanding and discussing
+ the connections mathematics has to other disciplines and the unique contributio
+n it brings to thinking about and understanding the world.
+ 
+\end_layout
+
+\begin_layout Standard
+A particular example of my use of these three teaching principles can be
+ found in my presentation of Calculus and its foundations.
+ I use the problem of finding the orbit of planet around the sun as the
+ motivating problem the class has to solve.
+ Deriving the equations from first principles allows for discussion on the
+ role of mathematics in physics and modeling, and the importance of making
+ good and accurate assumptions.
+ Solving for a particular solution of the problem leads to the introduction
+ of the derivative and integral, where students can engage with deep ideas
+ about the rate of change of functions and the accumulation of quantities
+ over time intervals.
+ The discussion about some of the intricacies in calculus computations is
+ always interesting for my students, and allows me to engage them in discussion
+ about interesting results beyond the scope of the course (such as Lebesgue
+ integration).
+ Finally, discussing the life of Isaac Newton and the historical context
+ for his examination of the problem always piques the interest of my students.
+ Through this example and many others, I have found that teaching around
+ these three principles has helped me to engage my students in mathematical
+ thinking and collaboration with the ultimate goal of helping them to be
+ strong thinkers and communicators.
+ In my conversations with students over the years, these are the constant
+ elements of my classes that they have pointed out to me which have been
+ the most enjoyable and fruitful for them.
+\end_layout
+
+\begin_layout Standard
+Of course, having as many principles and techniques as one would desire
+ is ultimately useless if one does not understand his or her hearers.
+ The most basic analysis begins with simply knowing who is in the room and
+ how best to communicate to the group.
+ Therefore, knowing my students is vital to the work I hope to accomplish
+ in the classroom.
+ Inside the classroom, as I have mentioned above, I devote much of my energy
+ to creating an open environment for learning and developing community.
+ It is often in this environment that I can have side conversations with
+ students or even engage the class as a whole and learn about their strengths
+ weaknesses, desires and ambitions.
+ I have found that students respond well to a more informal and open classroom
+ and, with some time, are quick to open up and share with me and with their
+ peers.
+ In addition to this, I use surveys and forms throughout the duration of
+ my class to gather data from students.
+ Often these forms include questions where students can tell me more about
+ their interests outside of school.
+ This information has been extremely helpful for me in engaging students
+ in conversations that are not purely academic in nature.
+ As the rapport with my students grows stronger, I am able to bring that
+ into the classroom and tailor my teaching to meet their specific needs.
+ Outside of the classroom, I use office hours and conversations outside
+ of the classroom to get to know my students on a deeper level.
+ I consider my office hours to be an extension of my classroom, with whiteboards
+ on the wall and various materials in the room so that students can use
+ that space to work together and collaborate together.
+ Even though most students come to office hours with questions which are
+ specific to class content, I have had the opportunity to talk to many students
+ during office hours on a variety of topics and offer them advice from my
+ own life experience.
+ These moments have been vital to helping me understand and relate to my
+ students and have helped me craft my teaching to make it relevant and interesti
+ng for them.
+ It would be an understatement for me to say that office hours are the best
+ moments in my work as a teacher.
+ I have found as much joy in building relationships with my students as
+ I have in helping them grow in their knowledge of mathematics.
+\end_layout
+
+\end_body
+\end_document

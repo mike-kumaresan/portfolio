@@ -1,0 +1,471 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass amsart
+\use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+customHeadersFooters
+shapepar
+tcolorbox
+graphicboxes
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+A Culture of Learning
+\end_layout
+
+\begin_layout Author
+Michael Kumaresan
+\end_layout
+
+\begin_layout Quotation
+\align block
+
+\family sans
+\begin_inset Quotes eld
+\end_inset
+
+He was truly a great teacher, perhaps the greatest of his era and ours.
+ For [him], the lecture hall was a theater, and the lecturer a performer,
+ responsible for providing drama and fireworks as well as facts and figures...Wheth
+er he addressed an audience of students, colleagues, or the general public,
+ for those lucky enough to see [him] lecture in person, the experience was
+ usually unconventional and always unforgettable, like the man himself.'
+\begin_inset Quotes erd
+\end_inset
+
+ - from the 
+\shape italic
+Preface
+\shape default
+ to the 
+\shape italic
+Feynman Lectures on Physics
+\shape default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Richard Feynman is considered by many physicists and mathematicians to be
+ one of the greatest teachers of all time.
+ He was known to be a master in the lecture hall and many of the students
+ and faculty who attended his lectures at Caltech have said that having
+ physics with him was the experience of a lifetime.
+ During my time as an undergraduate and graduate student, I had the pleasure
+ of working my way through many of the Feynman Lectures on Physics (these
+ were the lectures that Feynman gave at Caltech which were then subsequently
+ published into a three volume book set).
+ In reading the lectures, I experienced a small taste of what Feynman's
+ students experienced in-person.
+ It was clear that what I was reading was from a master teacher - someone
+ who was truly an expert in his field who had spent many years in deep reflectio
+n upon his subject.
+ And though I did not get to experience what it was like to learn from Feynman
+ in-person, reading his lectures reminded me of another great and masterful
+ teacher that I had the privilege of having when I was a high school student.
+ In my reflections in the Year 1 essay, I spent some time discussing the
+ profound influence that Bob Arrigo had in my career and life.
+ His teaching and example had a deep impact on me and many of my most cherished
+ memories from my time in high school are from being in his classroom and
+ interacting with him.
+ It is easy to see that a large part of what made Feynman and Arrigo such
+ impactful teachers was the kind of climate they were able to create in
+ their classroom.
+ In my own experiences as a teacher and in reflecting upon what has been
+ successful throughout my career, I have identified three key elements that
+ I have found to be crucial in creating a classroom that is primed for learning:
+ 1.
+ The role of the teacher as the first and primary student and learner; 2.
+ The quality of the interactions between the teacher and student; and 3.
+ The importance of managing the students and the classroom.
+ Let me consider each of these in turn.
+\end_layout
+
+\begin_layout Standard
+First, any successful environment in which students are encouraged to learn
+ and take risks must begin with the example of the teacher.
+ Teachers like Feynman and Arrigo are remembered not only for the information
+ they disseminated, but more importantly for the kind of people that they
+ were in the classroom.
+ In reflecting on how I can be a thoughtful and persuasive communicator
+ to my students, I have found Aristotle's 
+\begin_inset Quotes eld
+\end_inset
+
+rhetorical triangle
+\begin_inset Quotes erd
+\end_inset
+
+ to be a helpful framework for evaluating myself.
+ Aristotle taught that a speaker's ability to persuade an audience is based
+ on how well the speaker appeals to the audience in three different areas:
+ logos (rational speech), pathos (proportionate emotion) and ethos (credible
+ character).
+ Logos appeals to reason.
+ It means, quite simply, articulate content and clear speech.
+ I view this as the 
+\begin_inset Quotes eld
+\end_inset
+
+content knowledge
+\begin_inset Quotes erd
+\end_inset
+
+ aspect of teaching.
+ Pathos refers to the emotional quality of the presentation.
+ It means moving the hearers by causing their emotions to match your own.
+ It refers to grasping what emotions naturally correspond to the message
+ and then communicating these convincingly to the audience.
+ Pathos calls for appealing not just to the head (logos) but also to the
+ heart.
+ I view this as the 
+\begin_inset Quotes eld
+\end_inset
+
+energy and passion
+\begin_inset Quotes erd
+\end_inset
+
+ in teaching.
+ Finally, ethos appeals to the speaker's character.
+ Or as Quintilian defined it, the good orator is simply 
+\begin_inset Quotes eld
+\end_inset
+
+vir bonus dicendi peritus
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\begin_inset Quotes eld
+\end_inset
+
+a good man, expert in speech.
+\begin_inset Quotes erd
+\end_inset
+
+ Ethos speaks to the idea that if you wish others to believe you, they must
+ first like you, or at least find you trustworthy.
+ As one author has put it, 
+\begin_inset Quotes eld
+\end_inset
+
+We tolerate presenters.
+ We suffer lecturers.
+ We are moved by teachers.
+ Think back to your college or high-school years.
+ Can you recall your favorite class? Probably not.
+ Yet you likely can still point to a beloved teacher.
+ When you (more than what you say) hold the trust of your listeners, you,
+ that is to say, your character, like a splash of swirling orange juice
+ in a champagne glass, mix with the message.
+\begin_inset Quotes erd
+\end_inset
+
+ I view this as the 
+\begin_inset Quotes eld
+\end_inset
+
+trust and relationship
+\begin_inset Quotes erd
+\end_inset
+
+ aspect of teaching.
+ One of my goals as a professional is to be constantly fostering my growth
+ in these three areas.
+ I attempt to do this in two primary ways - engaging in the discipline of
+ mathematics on a regular basis, and engaging with a community of like-minded
+ professionals who can challenge me and help me to grow.
+ One of the disciplines I have tried to establish for myself as a professional
+ is to be engaging in some kind of mathematics on a personal level as part
+ of my professional responsibilities.
+ It can often be easy to get consumed by the demands of teaching and lose
+ sight of continuing to develop the craft and content that you are trying
+ to teach to students.
+ Mathematics is an inexhaustible subject and there is always much to be
+ explored and learned.
+ I try to make an effort to make sure I do not fall into the trap of thinking
+ that I have achieved enough knowledge of the subject.
+ On a practical level, this means that I try to work through several books
+ or papers on some area of mathematics that I find interesting every year.
+ Sometimes this is related to something I may teach to my students; but
+ often, this is some type of mathematics that I find stimulating, enjoyable
+ and want to explore for my own sake.
+ Engaging in this discipline has helped me to develop both the logos and
+ pathos in my teaching, as it helps to keep me sharp on the content and
+ also helps me to grow my joy and passion for the subject.
+ There is always something new and beautiful to learn, and the only way
+ that I can inspire my students to push themselves to learn new things is
+ if I myself am engaging in that discipline.
+ Developing ethos is a much trickier proposition.
+ One very important aspect of building ethos is to develop strong relationships
+ with students.
+ I will comment more on this below, but, in order to connect more with my
+ students, I have found that it is crucial to make connections with them
+ outside of the classroom.
+ To that end, one of my main goals is to devote time to being involved in
+ student life outside of the classroom (through coaching, advising, etc).
+ Moreover, I have also found it helpful to stay connected to other professionals
+ (particularly more experienced ones) who can offer me guidance and whose
+ example I can follow in dealing with my students.
+ The conversations I have had with my mentors at the high school (both current
+ and retired) have been extremely formative in helping me to become a better
+ teacher.
+ I have also benefitted from working and collaborating with colleagues both
+ in my department and across departments, and have learned much from them
+ about how to be available and helpful to my students.
+ Finally, the STI courses and other professional development opportunities
+ outside of Scarsdale that I have attended (such as conferences and workshops)
+ have been very helpful resources that I have used to develop my own logos,
+ pathos and ethos.
+ It goes without saying that I plan to continue to engage in all these activitie
+s in order to become a better teacher and person, with the goal of setting
+ a tone and culture of learning for the students who come into my classroom.
+\end_layout
+
+\begin_layout Standard
+While developing myself is a very important part of my job, I would consider
+ it a huge mistake to have myself (the teacher) at the center of everything
+ that happens in the classroom.
+ Rather, the classroom becomes a much more engaging, unpredictable and productiv
+e space when student thinking is showcased and is at its core.
+ The key to establishing this student-centered orientation in the classroom
+ is the instructor-student interaction.
+ I have seen a development in my teaching over the years where I have moved
+ away from the traditional means of initiation and response between the
+ instructor and the students, toward an emphasis on the use and development
+ of student thinking.
+ I now attempt (wherever I can, and to the best of my ability) to structure
+ my lecturing around helping students to share and deepen their thinking,
+ as well as engage with the thinking of those around them.
+ I provide more concrete details on how I attempt to do this in my reflections
+ in the Year 2 essay.
+ But to summarize here briefly, the first important step is to create a
+ classroom environment in which students feel comfortable in expressing
+ their thinking.
+ This type of classroom atmosphere stems largely from expressing my own
+ enthusiasm and joy for the subject (see above!).
+ Showing enthusiasm and approachability goes a long way toward transforming
+ a student's experience from dry and difficult, to engaging and thought-provokin
+g.
+ However, I have found that this environment can also be created by prompting
+ students in the right way.
+ I have discovered that questions such as, 
+\begin_inset Quotes eld
+\end_inset
+
+Can you expand more on that idea?
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+I know you haven't finished the problem yet, but what was your initial thinking?
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+We should not shy away from making mistakes - can you talk us through an
+ initial approach you took that did not work?
+\begin_inset Quotes erd
+\end_inset
+
+ to be particularly helpful.
+ These types of prompts show the students that there is an expectation for
+ their ideas to be shared, even if they are incorrect.
+ Often times their thinking is fuzzy and lacks rigor; however, my goal in
+ engaging them in discussion is not to evaluate them immediately, but to
+ encourage them to make their contribution.
+ Following this, a second step is to help students engage with the ideas
+ and thinking of their peers.
+ I use questions such as 
+\begin_inset Quotes eld
+\end_inset
+
+Do we agree with his idea or thinking?
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Could someone re-express her argument in your own words?
+\begin_inset Quotes erd
+\end_inset
+
+, and 
+\begin_inset Quotes eld
+\end_inset
+
+Can you repeat that so the whole class can hear what you said?
+\begin_inset Quotes erd
+\end_inset
+
+ to move students in this direction.
+ I have seen the benefits of these kinds of interactions often in the classroom.
+ Sometimes, one student arrives at a different conclusion and this leads
+ to debate about who is correct and who can justify their thinking more
+ precisely.
+ Other times, a misunderstanding surfaces and a discussion ensues on how
+ to be more precise and careful in the way we are communicating.
+ All of these outcomes are productive in teaching students how to think
+ mathematically and embrace risk-taking with the goal of fostering learning
+ and growth.
+ I have found that creating classroom interactions with students on these
+ levels has helped me tremendously to achieve the goal of engaging my students
+ with deep mathematical ideas in collaboration with each other.
+ It gives students an active role in their own development and creates the
+ kind of climate that I hope will inspire them to be independent and life-long
+ learners.
+\end_layout
+
+\begin_layout Standard
+Finally, with students at the center of the classroom, the instructor must
+ play an important role in managing the students' growth and development.
+ There are several ways in which I attempt to help students grow in their
+ development while they are in my classroom.
+ First, I have found it very helpful to establish routines for my students.
+ When they come to class, they know what to expect and what to begin working
+ on, whether it be a review worksheet or a new activity.
+ Moreover, I have employed some technological tools such as Google Classroom
+ to help me communicate effectively with students and make sure expectations
+ are understood across the board.
+ In addition to establishing routines for our day to day meetings, I also
+ use a variety of different assessments and projects to track progress and
+ offer students feedback on their growth.
+ In mathematics education, in particular, in order for students to develop
+ their skills, it is vital that students are constantly solving problems.
+ To that end, I give students regular formative assessments as well as summative
+ assessments.
+ This helps me to monitor student growth and communicate clearly with my
+ students about their progress and how they can be improving and learning.
+ Inside the classroom, as I have mentioned above, I devote much of my energy
+ to creating an open environment for learning and developing community.
+ It is often in this environment that I can have side conversations with
+ students or even engage the class as a whole and learn about their strengths
+ weaknesses, desires and ambitions.
+ I have found that students respond well to a more informal and open classroom
+ and, with some time, are quick to open up and share with me and with their
+ peers.
+ As the rapport with my students grows stronger, I am able to bring that
+ into the classroom and tailor my teaching to meet their specific needs.
+ Outside of the classroom, I use office hours and conversations outside
+ of the classroom to get to know my students on a deeper level.
+ I consider my office hours to be an extension of my classroom, with whiteboards
+ on the wall and various materials in the room so that students can use
+ that space to work together and collaborate together.
+ Even though most students come to office hours with questions which are
+ specific to class content, I have had the opportunity to talk to many students
+ during office hours on a variety of topics and offer them advice from my
+ own life experience.
+ These moments have been vital in helping me understand and relate to my
+ students and have helped me craft my teaching to make it relevant and interesti
+ng for them.
+ Office hours have been a key way for me to monitor my students' progress.
+ They have helped me to build stronger relationships with my students, which
+ is ultimately the best way to monitor student growth.
+ In my years of teaching, I have found that building strong relationships
+ is the key to having a successful and impactful teacher-student relationship.
+ Though imparting information is crucial in teaching, at the end of the
+ day, teaching is ultimately a 
+\begin_inset Quotes eld
+\end_inset
+
+people business.
+\begin_inset Quotes erd
+\end_inset
+
+ Gaining the trust and respect of my students is something I work hard to
+ accomplish so that I can manage their growth and progress more effectively
+ and make a difference in their lives.
+\end_layout
+
+\end_body
+\end_document
